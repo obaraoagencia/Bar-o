@@ -1,0 +1,6 @@
+numpy
+opencv-python
+matplotlib
+reportlab
+open3d
+Pillow
